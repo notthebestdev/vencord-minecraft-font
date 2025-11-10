@@ -1,4 +1,6 @@
-# Vencord Minecraft Font
+<p align="center">
+    <img src="https://socialify.git.ci/notthebestdev/vencord-minecraft-font/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Light" alt="vencord-minecraft-font" />
+</p>
 
 Swap Discord’s default font for a Minecraft-style pixel typeface, designed specifically for [Vencord](https://vencord.dev/) and [Vesktop](https://vesktop.dev/). Inspired by [7wlr/bd-minecraft-font](https://github.com/7wlr/bd-minecraft-font/tree/master).
 
