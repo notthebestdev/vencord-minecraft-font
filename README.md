@@ -13,7 +13,7 @@ Swap Discord’s default font for a Minecraft-style pixel typeface, designed spe
 1. Download the latest release of the Minecraft font theme from the [releases page](https://github.com/yourusername/vencord-minecraft-font/releases).
 2. Open Vencord or Vesktop and navigate to the Themes section.
 3. Click "Open Themes Folder" to open the directory where custom themes are stored.
-4. Move the downloaded theme file (e.g., `minecraft-font.theme.css`) into the Themes folder.
+4. Move the downloaded theme file (`MinecraftFont.theme.css`) into the Themes folder.
 5. Return to Vencord or Vesktop and enable the Minecraft font theme from the list.
 
 ## Credits
