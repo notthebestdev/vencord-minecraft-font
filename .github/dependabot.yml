@@ -5,13 +5,10 @@
 
 version: 2
 updates:
-  - package-ecosystem: 'npm' # See documentation for possible values
-    directory: '/' # Location of package manifests
+  - package-ecosystem: "npm" # See documentation for possible values
+    directory: "/" # Location of package manifests
     schedule:
-      interval: 'weekly'
-    ignore:
-      - dependency-name: 'vitest'
-        update-types: ['version-update:semver-major', 'version-update:semver-minor', 'version-update:semver-patch']
+      interval: "weekly"
     commit-message:
       prefix: "⬆️"
   - package-ecosystem: "github-actions"

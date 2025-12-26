@@ -7,7 +7,7 @@ export default defineConfig([
     files: ["**/*.css"],
     plugins: { css },
     language: "css/css",
-    extends: ["css/recommended"],
+    extends: ["css/recommended"]
   },
-  { rules: { "css/font-family-fallbacks": "off", "css/no-important": "off" } },
+  { rules: { "css/font-family-fallbacks": "off", "css/no-important": "off" } }
 ]);
