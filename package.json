@@ -17,6 +17,6 @@
     "eslint": "^9.39.2"
   },
   "dependencies": {
-    "prettier": "^3.7.4"
+    "prettier": "^3.8.0"
   }
 }
