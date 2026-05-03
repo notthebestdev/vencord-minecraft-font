@@ -14,7 +14,7 @@
   "packageManager": "pnpm@10.20.0",
   "devDependencies": {
     "@eslint/css": "^1.1.0",
-    "eslint": "^10.2.0"
+    "eslint": "^10.3.0"
   },
   "dependencies": {
     "prettier": "^3.8.1"
